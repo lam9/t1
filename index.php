@@ -16,6 +16,7 @@ for($i=0;$i<10;$i++){
     echo $nb, ' ';
 }
 
+echo "<h1>","Fin de session 1", "</h1>";
 
 
 
