@@ -7,6 +7,7 @@
  */
 
 echo date("H:m:s"),"<br>";
+echo "<h1>","nous somme lundi", "</h1>";
 
 
 $nb=10;
